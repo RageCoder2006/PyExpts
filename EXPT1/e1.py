@@ -1,5 +1,4 @@
-# Creating a program that reads 2 or 3 sides of a triangle and computes area of triangle. Area of the triangle
-# is displayed to user
+# Area of Triangle
 
 import math
 
