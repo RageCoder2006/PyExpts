@@ -31,7 +31,7 @@ elif ip_choice == "c":
     print(math.sin(math.radians(angle)))
 while True:
     try:
-        print(f"Area of the triangle with given dimensions is: {area}")
+        print(f"Area of the triangle with given dimensions is: {area} sq. units")
         break
     except NameError:
         print("Select the option correctly")
