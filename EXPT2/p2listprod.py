@@ -4,4 +4,4 @@ prod = 1
 for i in lst:
     prod = prod * int(i)
 
-print(prod)
+print(f"Product of the elements in the list is: {prod}")
