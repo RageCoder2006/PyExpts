@@ -1,4 +1,4 @@
-lst = list(input("Enter List"))
+lst = list(input("Enter List: "))
 prod = 1
 
 for i in lst:
