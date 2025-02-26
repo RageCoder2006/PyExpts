@@ -28,7 +28,6 @@ elif ip_choice == "c":
     side2 = float(input("Enter second side: "))
     angle = float(input("Enter the included angle in degrees: "))
     area = 0.5 * side1 * side2 * math.sin(math.radians(angle))
-    print(math.sin(math.radians(angle)))
 while True:
     try:
         print(f"Area of the triangle with given dimensions is: {area} sq. units")

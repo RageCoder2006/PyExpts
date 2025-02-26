@@ -1,11 +1,9 @@
-#Structured Multiplication Table Program
+# Multiplication table
 
-startno = int(input("Enter the Start Number: "))
-endno = int(input("Enter the End Number: "))
-upperlim = int(input("Enter the range for printing table: "))
+num = int(input("Enter the number to generate the multiplication table: "))
+lim = int(input("Enter the upper limit: "))
 
-for i in range(startno, upperlim + 1):
-    print("", end=" ")
-    for j in range(1, endno + 1):
-        print(str(i * j).rjust(3), end=" ")
-    print()
+print(f"Multiplication Table of {num} up to {lim}:")
+
+for i in range(1, lim + 1):
+    print(f"{num} × {i} = {num * i}")

@@ -12,7 +12,7 @@ while True:
         div = "can not divide by zero"
         break
 
-print("Addition Result = ", add)
-print("Subtraction Result = ", sub)
+print("Addition Result       = ", add)
+print("Subtraction Result    = ", sub)
 print("Multiplication Result = ", mul)
-print("Division Result = ", div)
+print("Division Result       = ", div)
