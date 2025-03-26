@@ -7,7 +7,7 @@ while num > 0:
     num = num // 10
     count += 1
 
-if count == 1 or num == 0:
+if count == 1:
     print("Single Digit")
 elif count == 2:
     print("Two Digits")
