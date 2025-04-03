@@ -9,12 +9,13 @@ t1.goto(-100, 0)
 t1.pendown()
 t1tot = 0
 t1.speed(1)
+t1.shape("turtle")
 match = True
 
 t2 = turtle.Turtle()
 t2.pencolor("blue")
 t2.penup()
-t2.goto(-100, -10)
+t2.goto(-100, -30)
 t2.pendown()
 t2tot = 0
 
@@ -38,7 +39,7 @@ while match:
     if t1tot >= 100 or t2tot >= 100:
         match = False
         break
-w
+
 if t1tot >= 100:
     print("Red Won!")
 else:

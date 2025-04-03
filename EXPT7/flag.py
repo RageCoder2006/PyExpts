@@ -74,20 +74,18 @@ def france():
 
 
 t.penup()
-t.goto(-210,0)
+t.goto(-210, 0)
 t.pendown()
 japan()
 
 t.penup()
-t.goto(-110,0)
+t.goto(-110, 0)
 t.pendown()
 bangladesh()
 
 t.penup()
-t.goto(110,0)
+t.goto(110, 0)
 t.pendown()
 france()
-
-
 
 turtle.done()
