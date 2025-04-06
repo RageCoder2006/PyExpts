@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc1986dc-aab1-4ca0-9d8b-d4cac1e2df68" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RageCoder2006&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RageCoder2006/PyExpts.git&quot;,
+    &quot;accountId&quot;: &quot;159bd8c7-d837-458a-8d58-bee9fe719cd7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2syu6S6Rn5NtA82BAsWs4cudLvU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AreaOfTriangle.executor": "Run",
+    "Python.DigitClassification.executor": "Run",
+    "Python.GradeSorter.executor": "Run",
+    "Python.LoadingAnimation.executor": "Run",
+    "Python.MultiplicationTable.executor": "Run",
+    "Python.MultiplicationTable2.executor": "Run",
+    "Python.NumberGuessingGame.executor": "Run",
+    "Python.NumberTypeConverter.executor": "Run",
+    "Python.Triangle.executor": "Run",
+    "Python.WordGame.executor": "Run",
+    "Python.codebreakers.executor": "Run",
+    "Python.e1.executor": "Run",
+    "Python.e2.executor": "Run",
+    "Python.filter.executor": "Run",
+    "Python.flag.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.p10append.executor": "Run",
+    "Python.p10armstrong.executor": "Run",
+    "Python.p10maxmindict.executor": "Run",
+    "Python.p10sumdig.executor": "Run",
+    "Python.p10yesno.executor": "Run",
+    "Python.p11concatele.executor": "Run",
+    "Python.p11oddevencount.executor": "Run",
+    "Python.p11to10.executor": "Run",
+    "Python.p12primeno.executor": "Run",
+    "Python.p13fibonacci.executor": "Run",
+    "Python.p14factorial.executor": "Run",
+    "Python.p15numnletcount.executor": "Run",
+    "Python.p16disp1to25.executor": "Run",
+    "Python.p17passwordvalidity.executor": "Run",
+    "Python.p18monthstodays.executor": "Run",
+    "Python.p1calc.executor": "Run",
+    "Python.p1dictionarysort.executor": "Run",
+    "Python.p1listsum.executor": "Run",
+    "Python.p1oneto10.executor": "Run",
+    "Python.p1tenN.executor": "Run",
+    "Python.p2addkey.executor": "Run",
+    "Python.p2bank.executor": "Run",
+    "Python.p2even.executor": "Run",
+    "Python.p2listprod.executor": "Run",
+    "Python.p2stringconcat.executor": "Run",
+    "Python.p2sumtill0.executor": "Run",
+    "Python.p3car.executor": "Run",
+    "Python.p3circle.executor": "Run",
+    "Python.p3concatdicts.executor": "Run",
+    "Python.p3factorial.executor": "Run",
+    "Python.p3largest.executor": "Run",
+    "Python.p3sumtonum.executor": "Run",
+    "Python.p4CtoFtemp.executor": "Run",
+    "Python.p4circle.executor": "Run",
+    "Python.p4fibonacci.executor": "Run",
+    "Python.p4iteratedict.executor": "Run",
+    "Python.p4oddsumrange.executor": "Run",
+    "Python.p4smallest.executor": "Run",
+    "Python.p4sumrange.executor": "Run",
+    "Python.p5SI.executor": "Run",
+    "Python.p5duplrem.executor": "Run",
+    "Python.p5mergetwo.executor": "Run",
+    "Python.p5multiplicationtable.executor": "Run",
+    "Python.p5palindrome.executor": "Run",
+    "Python.p5secret.executor": "Run",
+    "Python.p6animal.executor": "Run",
+    "Python.p6countto0.executor": "Run",
+    "Python.p6listele.executor": "Run",
+    "Python.p6lstclone.executor": "Run",
+    "Python.p6sumitems.executor": "Run",
+    "Python.p6valueswap.executor": "Run",
+    "Python.p7longerthann.executor": "Run",
+    "Python.p7multiplyitems.executor": "Run",
+    "Python.p7numguess.executor": "Run",
+    "Python.p7numlen.executor": "Run",
+    "Python.p7sumN.executor": "Run",
+    "Python.p8common.executor": "Run",
+    "Python.p8multiplicationtable.executor": "Run",
+    "Python.p8palindrome.executor": "Run",
+    "Python.p8removekey.executor": "Run",
+    "Python.p8strrev.executor": "Run",
+    "Python.p9dictsortbykey.executor": "Run",
+    "Python.p9fact.executor": "Run",
+    "Python.p9noeven.executor": "Run",
+    "Python.p9removevowels.executor": "Run",
+    "Python.p9strrev.executor": "Run",
+    "Python.race.executor": "Run",
+    "Python.spiral.executor": "Run",
+    "Python.square bg.executor": "Run",
+    "Python.squarebg.executor": "Run",
+    "Python.thesaurus.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/rishitbaitule/PycharmProjects/PyExpts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/EXPT1" />
+      <recent name="$PROJECT_DIR$/EXPT2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/EXPT10" />
+      <recent name="$PROJECT_DIR$/EXPT12" />
+      <recent name="$PROJECT_DIR$/EXPT7" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc1986dc-aab1-4ca0-9d8b-d4cac1e2df68" name="Changes" comment="" />
+      <created>1739439959119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739439959119</updated>
+      <workItem from="1743950031736" duration="1111000" />
+    </task>
+    <task id="LOCAL-00001" summary="e2 done">
+      <option name="closed" value="true" />
+      <created>1739442210177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739442210177</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modified e1">
+      <option name="closed" value="true" />
+      <created>1739442338868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739442338868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="rename">
+      <option name="closed" value="true" />
+      <created>1739442585164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739442585164</updated>
+    </task>
+    <task id="LOCAL-00004" summary="p1 done">
+      <option name="closed" value="true" />
+      <created>1739443094675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739443094675</updated>
+    </task>
+    <task id="LOCAL-00005" summary="p2 done and reformatted p1">
+      <option name="closed" value="true" />
+      <created>1739443257348</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739443257348</updated>
+    </task>
+    <task id="LOCAL-00006" summary="p3 done and added units in e1">
+      <option name="closed" value="true" />
+      <created>1739443516302</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739443516302</updated>
+    </task>
+    <task id="LOCAL-00007" summary="p4 done">
+      <option name="closed" value="true" />
+      <created>1739443737082</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739443737082</updated>
+    </task>
+    <task id="LOCAL-00008" summary="p5 done">
+      <option name="closed" value="true" />
+      <created>1739445624131</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739445624131</updated>
+    </task>
+    <task id="LOCAL-00009" summary="p6 done">
+      <option name="closed" value="true" />
+      <created>1739445995601</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739445995601</updated>
+    </task>
+    <task id="LOCAL-00010" summary="p7 done">
+      <option name="closed" value="true" />
+      <created>1739446234027</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739446234027</updated>
+    </task>
+    <task id="LOCAL-00011" summary="p8 done">
+      <option name="closed" value="true" />
+      <created>1739446486490</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739446486490</updated>
+    </task>
+    <task id="LOCAL-00012" summary="p9 done">
+      <option name="closed" value="true" />
+      <created>1739446720997</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739446720997</updated>
+    </task>
+    <task id="LOCAL-00013" summary="p10 done">
+      <option name="closed" value="true" />
+      <created>1739447054375</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739447054375</updated>
+    </task>
+    <task id="LOCAL-00014" summary="rename">
+      <option name="closed" value="true" />
+      <created>1739447222572</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739447222572</updated>
+    </task>
+    <task id="LOCAL-00015" summary="grade sorter completed">
+      <option name="closed" value="true" />
+      <created>1739448212577</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739448212577</updated>
+    </task>
+    <task id="LOCAL-00016" summary="p1 done">
+      <option name="closed" value="true" />
+      <created>1739464943335</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739464943335</updated>
+    </task>
+    <task id="LOCAL-00017" summary="p1 edited">
+      <option name="closed" value="true" />
+      <created>1739465035162</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739465035162</updated>
+    </task>
+    <task id="LOCAL-00018" summary="p2 done">
+      <option name="closed" value="true" />
+      <created>1739465064638</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1739465064638</updated>
+    </task>
+    <task id="LOCAL-00019" summary="p2 done">
+      <option name="closed" value="true" />
+      <created>1739465082017</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1739465082017</updated>
+    </task>
+    <task id="LOCAL-00020" summary="p2 edited">
+      <option name="closed" value="true" />
+      <created>1739465145736</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1739465145736</updated>
+    </task>
+    <task id="LOCAL-00021" summary="commit">
+      <option name="closed" value="true" />
+      <created>1739465328130</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1739465328130</updated>
+    </task>
+    <task id="LOCAL-00022" summary="p4 done">
+      <option name="closed" value="true" />
+      <created>1739465407088</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1739465407088</updated>
+    </task>
+    <task id="LOCAL-00023" summary="p5 done">
+      <option name="closed" value="true" />
+      <created>1739465716458</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1739465716458</updated>
+    </task>
+    <task id="LOCAL-00024" summary="p6 done and some edits">
+      <option name="closed" value="true" />
+      <created>1739466391352</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1739466391352</updated>
+    </task>
+    <task id="LOCAL-00025" summary="p7 done">
+      <option name="closed" value="true" />
+      <created>1739466583756</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1739466583756</updated>
+    </task>
+    <task id="LOCAL-00026" summary="p8 done">
+      <option name="closed" value="true" />
+      <created>1739466802970</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1739466802970</updated>
+    </task>
+    <task id="LOCAL-00027" summary="p9 done">
+      <option name="closed" value="true" />
+      <created>1739467836731</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1739467836731</updated>
+    </task>
+    <task id="LOCAL-00028" summary="p10 done">
+      <option name="closed" value="true" />
+      <created>1739468985350</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1739468985350</updated>
+    </task>
+    <task id="LOCAL-00029" summary="p11 done">
+      <option name="closed" value="true" />
+      <created>1739469248462</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1739469248462</updated>
+    </task>
+    <task id="LOCAL-00030" summary="p11 done">
+      <option name="closed" value="true" />
+      <created>1740579442664</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1740579442664</updated>
+    </task>
+    <task id="LOCAL-00031" summary="added codebreakers and thesaurus">
+      <option name="closed" value="true" />
+      <created>1741702840466</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1741702840466</updated>
+    </task>
+    <task id="LOCAL-00032" summary="expt 3 done">
+      <option name="closed" value="true" />
+      <created>1741706289025</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1741706289025</updated>
+    </task>
+    <task id="LOCAL-00033" summary="expt 4 added">
+      <option name="closed" value="true" />
+      <created>1741713084441</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1741713084441</updated>
+    </task>
+    <task id="LOCAL-00034" summary="expt 4 done">
+      <option name="closed" value="true" />
+      <created>1741714330758</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1741714330758</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Expt 5 done">
+      <option name="closed" value="true" />
+      <created>1742145094223</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1742145094223</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Added Main Programs from EXPT 6">
+      <option name="closed" value="true" />
+      <created>1742145120483</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1742145120483</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Added Turtle Programs">
+      <option name="closed" value="true" />
+      <created>1743007433659</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1743007433659</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fixed an error">
+      <option name="closed" value="true" />
+      <created>1743007580091</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1743007580091</updated>
+    </task>
+    <task id="LOCAL-00039" summary="simplified program">
+      <option name="closed" value="true" />
+      <created>1743007619535</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1743007619535</updated>
+    </task>
+    <task id="LOCAL-00040" summary="added turtle programs">
+      <option name="closed" value="true" />
+      <created>1743650061466</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1743650061466</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added OOP practice problems">
+      <option name="closed" value="true" />
+      <created>1743650123992</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1743650123992</updated>
+    </task>
+    <task id="LOCAL-00042" summary="...">
+      <option name="closed" value="true" />
+      <created>1743651278338</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1743651278338</updated>
+    </task>
+    <task id="LOCAL-00043" summary="added gitignore">
+      <option name="closed" value="true" />
+      <created>1743950138990</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1743950138990</updated>
+    </task>
+    <task id="LOCAL-00044" summary=".">
+      <option name="closed" value="true" />
+      <created>1743950203507</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1743950203507</updated>
+    </task>
+    <task id="LOCAL-00045" summary="declutter">
+      <option name="closed" value="true" />
+      <created>1743950224050</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1743950224050</updated>
+    </task>
+    <task id="LOCAL-00046" summary="added expt12">
+      <option name="closed" value="true" />
+      <created>1743950379159</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1743950379159</updated>
+    </task>
+    <task id="LOCAL-00047" summary="added expt10">
+      <option name="closed" value="true" />
+      <created>1743950471519</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1743950471519</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="p4 done" />
+    <MESSAGE value="p5 done" />
+    <MESSAGE value="p6 done and some edits" />
+    <MESSAGE value="p7 done" />
+    <MESSAGE value="p8 done" />
+    <MESSAGE value="p9 done" />
+    <MESSAGE value="p10 done" />
+    <MESSAGE value="p11 done" />
+    <MESSAGE value="added codebreakers and thesaurus" />
+    <MESSAGE value="expt 3 done" />
+    <MESSAGE value="expt 4 added" />
+    <MESSAGE value="expt 4 done" />
+    <MESSAGE value="Expt 5 done" />
+    <MESSAGE value="Added Main Programs from EXPT 6" />
+    <MESSAGE value="Added Turtle Programs" />
+    <MESSAGE value="fixed an error" />
+    <MESSAGE value="simplified program" />
+    <MESSAGE value="added turtle programs" />
+    <MESSAGE value="added OOP practice problems" />
+    <MESSAGE value="..." />
+    <MESSAGE value="added gitignore" />
+    <MESSAGE value="." />
+    <MESSAGE value="declutter" />
+    <MESSAGE value="added expt12" />
+    <MESSAGE value="added expt10" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyExpts$p6animal.coverage" NAME="p6animal Coverage Results" MODIFIED="1743950062638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EXPT12" />
+  </component>
+</project>
