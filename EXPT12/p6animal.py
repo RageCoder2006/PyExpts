@@ -5,3 +5,6 @@ class Animal:
 class Dog(Animal):
     def sound():
         print("Dogs bark")
+
+Animal.sound()
+Dog.sound()
