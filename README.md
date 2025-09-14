@@ -10,7 +10,9 @@
 |6|Conditional Statements|
 |7|Turtle|
 |8|Tkinter|
-|9|Matplotlib, Pandas, Seaborn|
+|9|Matplotlib, Pandas, Seaborn*|
 |10|Functions|
 |11|Audio Modules*|
 |12|Classes|
+
+* -> not included in the repository
