@@ -15,4 +15,4 @@
 |11|Audio Modules*|
 |12|Classes|
 
-* -> not included in the repository
+\* -> not included in the repository
